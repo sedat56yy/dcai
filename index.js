@@ -89,4 +89,4 @@ client.on("messageCreate", async (message) => {
   await message.reply(reply);
 });
 
-client.login(process.env.DISCORD_TOKEN);
+client.login("MTQwNzY1ODU3MTMxNDc1NzYzMg.GeCeTU.DY2Gda06ElUoxkDZVEDgGaMqNNGtxSCwaTHzU8")
